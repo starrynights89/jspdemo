@@ -15,5 +15,14 @@
     // send cookie to browser
     response.addCookie(theCookie);
 %>
+<body>
+
+    Thanks! We set your favorite language to: ${param:favoriteLanguage}
+
+    <br/><br/>
+
+    <a href="cookies-homepage.jsp">Return to homepage.</a>
+
+</body>
 
 </html>
