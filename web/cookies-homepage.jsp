@@ -1,3 +1,4 @@
+<%@ page import="java.net.URLEncoder" %>
 <html>
 
 <body>
@@ -11,11 +12,13 @@
     // get the cookies from the browser request
     Cookie[] theCookies = request.getCookies();
 
-    // find our favorite langauge cookie
+    // find our favorite language cookie
     if (theCookies != null) {
         for (Cookie tempCookie : theCookies) {
            if ("myApp.favoriteLanguage".equals(tempCookie.getName())) {
-               favLang = tempCookie.getValue();
+
+               // encode cookie data ... handle case of languages with spaces in them
+               favLang = URLEncoder.encode(favLang, "UTF-8");
                break;
            }
         }
