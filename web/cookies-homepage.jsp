@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<h3>raining Portal</h3>
+<h3>Training Portal</h3>
 
 <!-- read the favorite programming language cookie -->
 <%
@@ -31,11 +31,20 @@
     <li>blah blah blah</li>
 </ul>
 
-<h4>New Books for <%= favLang %></h4>
+<h4>Latest News Reports for <%= favLang %></h4>
 <ul>
     <li>blah blah blah</li>
     <li>blah blah blah</li>
 </ul>
+
+<h4>Hot jobs for <%= favLang %></h4>
+<ul>
+    <li>blah blah blah</li>
+    <li>blah blah blah</li>
+</ul>
+
+<hr>
+<a href="cookies-personalize-form.html">Personalize this page</a>
 </body>
 
 </html>
