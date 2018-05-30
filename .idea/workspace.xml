@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd59d4f5-4b61-4881-98f5-7e8c14429286" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/web/cookies-personalized-response.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cookies-personalized-response.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="fd59d4f5-4b61-4881-98f5-7e8c14429286" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,8 +96,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="532" />
-    <option name="y" value="226" />
+    <option name="x" value="829" />
+    <option name="y" value="325" />
     <option name="width" value="1717" />
     <option name="height" value="1046" />
   </component>
@@ -147,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.cookies-personalized-response.jsp">
+  <component name="RunManager" selected="Tomcat Server.cookies-homepage.jsp">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -453,8 +451,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Tomcat Server.cookies-personalized-response.jsp" />
         <item itemvalue="Tomcat Server.cookies-homepage.jsp" />
+        <item itemvalue="Tomcat Server.cookies-personalized-response.jsp" />
         <item itemvalue="JavaScript Debug.cookies-homepage.jsp" />
         <item itemvalue="Tomcat Server.cookies-personalize-form.html" />
         <item itemvalue="JavaScript Debug.student-checkbox-form.html" />
@@ -495,15 +493,15 @@
       <workItem from="1527580687888" duration="603000" />
       <workItem from="1527620031142" duration="2373000" />
       <workItem from="1527639863774" duration="1009000" />
-      <workItem from="1527642508182" duration="2504000" />
+      <workItem from="1527642508182" duration="2561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25586000" />
+    <option name="totallyTimeSpent" value="25643000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1296" y="233" width="1717" height="1046" extended-state="0" />
+    <frame x="736" y="311" width="1717" height="1046" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.3293348" />
