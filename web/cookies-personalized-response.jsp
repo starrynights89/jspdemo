@@ -17,7 +17,8 @@
 %>
 <body>
 
-    Thanks! We set your favorite language to: ${param:favoriteLanguage}
+    Thanks! We set your favorite language to:
+    ${param.favoriteLanguage}
 
     <br/><br/>
 
